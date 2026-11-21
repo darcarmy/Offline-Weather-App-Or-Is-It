@@ -7,7 +7,7 @@ Make sure you satisfy the following prerequisites
 * Git
 * Bash / Posix Shell
 * Linux / MacOS / WSL
-* Terminal
+* Terminal Emulator
 
 ### Clone Repository
 ```shell
